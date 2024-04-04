@@ -21,7 +21,7 @@ By running this application, user will be able to enter their savings and CD acc
 
 ### CD Account [^3]
 
-![CD Benefit]()
+![CD Benefit](https://github.com/kalAnglin/customer_banking/blob/main/images/CD_account.jpeg)
 
 - By providing the user with a application to calculate and track the interest earned on a cd account, the user is presented with the benefits with the following benefits:
 1. The APY national average for a one-year CD is 1.73% which almost three times the APY for CD.[^4] If setting money for large future purchase is in the cards, CD provides a good way to keep out of reach and earn interest.
