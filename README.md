@@ -13,7 +13,7 @@ By running this application, user will be able to enter their savings and CD acc
 
 ### Savings Account [^1]
 
-![Savings Account Benefit]()
+![Savings Account Benefit](https://github.com/kalAnglin/customer_banking/blob/main/images/savings_account.jpeg)
 
 - This program is designed to illustrate the following benefits to the users by calcutated an updated balance after a specifi number of months:
 1. Earn a Return: Although savings accounts typically do not yield a big return it is a steady and reliable one. The APY national average according to the FDIC is .59% which is still bigger return than just stashing cash.[^2] 
