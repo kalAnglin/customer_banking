@@ -6,19 +6,6 @@ I worked with a LA on AskBSC-307244 and tutor Mohammed Fauwaaz in a Tutor Sessio
 
 Create a customer banking system utilizing modularity of functions as a block of resuable code that allows the users to calculate and track interest earned on a savings and CD accounts based on the user's starting balance, interest rate, and account maturity.
 
-
-Use OOP to import savings and CD account functions provided in the included files into the customer banking file to create an account, 
-Import the Account class savings and CD account files to act as a blueprint and utilize the methods within the class to specify the properties and behaviors of the savings and CD account. 
-
-Use the constructor method to assign the initial state of the balance and interest attributes of the savings and CD account. Use instance variables to store the balance and interest attributes passed through the parameter of constructor method for the savings and CD account.
-
-Create savings and CD instances of the Account class and pass in the balance and interest parameters with an initial interest value of 0. Given initial value of 0, calculate the interest earned and updated balance for the savings and CD account.
-
-Use instances for savings and CD Account class to pass the updated balance and intereset earned to the set balance method.
-
-Use separate instances for savings and CD Account class to pass the interest earned to the set balance method.
-
-
 ## Purpose
 By running this application, user will be able to enter their savings and CD account information, see the interest earned, and view updated balances after a specified number of months.
 
