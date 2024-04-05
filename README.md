@@ -15,7 +15,7 @@ By running this application, user will be able to enter their savings and CD acc
 
 ![Savings Account Benefit](https://github.com/kalAnglin/customer_banking/blob/main/images/savings_account.jpeg)
 
-- This program is designed to illustrate the following benefits to the users by calcutated an updated balance after a specifi number of months:
+- This program is designed to illustrate the following benefits to the users by calcutating and updating balance after a specific number of months:
 1. Earn a Return: Although savings accounts typically do not yield a big return it is a steady and reliable one. The APY national average according to the FDIC is .59% which is still bigger return than just stashing cash.[^2] 
 2. Small Initial Investment: Another benefit is in comparison to other investments, such a real estate & mutual investments, most savings accounts have a very low minimum balance, if any. In other words, you are guaranteed some type of return regardless of the deposit amount.
 
@@ -23,9 +23,9 @@ By running this application, user will be able to enter their savings and CD acc
 
 ![CD Benefit](https://github.com/kalAnglin/customer_banking/blob/main/images/CD_account.jpeg)
 
-- By providing the user with a application to calculate and track the interest earned on a cd account, the user is presented with the benefits with the following benefits:
-1. The APY national average for a one-year CD is 1.73% which almost three times the APY for CD.[^4] If setting money for large future purchase is in the cards, CD provides a good way to keep out of reach and earn interest.
-2. CD Attributes: If there is a concern regarding the inability the withdraw from a CD, there are options. Some CDs allow users to withdraw with no penalities. Terms of a CD also impact the interest rate, typically longer CDs have higher rates than shorter ones; however some CDs do allow a bump-up or rate increase during the term.
+- By providing the user with an application to calculate and track the interest earned on a cd account, the user is presented with the following benefits:
+1. The APY national average for a one-year CD is 1.73% which almost three times the APY for CD.[^4] If setting money for large future purchase is in the cards, CD provides a good way to keep funds in a safe place and earn interest.
+2. CD Attributes: If there is a concern regarding the inability to withdraw from a CD, there are options. Some CDs allow users to withdraw with no penalities. Terms of a CD also impact the interest rate, typically longer CDs have higher rates than shorter ones; however some CDs do allow a bump-up or rate increase during the term.
 
 ## Landscape
 
