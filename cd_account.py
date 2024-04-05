@@ -7,13 +7,15 @@ def create_cd_account(balance, interest_rate, months):
 
     Args:
         balance (float): The initial CD account balance.
-        interest_rate (float): The APR interest rate for the CD account.
+        interest_rate (float): The APY interest rate for the CD account.
         months (int): The length of months for the CD.
-
+    
     Returns:
         float: The updated CD account balance after adding the interest earned.
         And returns the interest earned.
     """
+    # I changed APR to APY which is more applicable for cd accounts.
+
     # Create an instance of the `Account` class and pass in the balance and interest parameters.
     #  Hint: You need to add the interest as a value, i.e, 0.
     # ADD YOUR CODE HERE

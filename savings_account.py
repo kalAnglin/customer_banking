@@ -7,13 +7,14 @@ def create_savings_account(balance, interest_rate, months):
 
     Args:
         balance (float): The initial savings account balance.
-        interest_rate (float): The APR interest rate for the savings account.
+        interest_rate (float): The APY interest rate for the savings account.
         months (int): The length of months to determine the amount of interest.
 
     Returns:
         float: The updated savings account balance after adding the interest earned.
         And returns the interest earned.
     """
+    # I changed APR to APY which is more applicable for savings accounts.
 
     # Create an instance of the `Account` class and pass in the balance and interest parameters.
     #  Hint: You need to add the interest as a value, i.e, 0.
