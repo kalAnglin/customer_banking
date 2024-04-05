@@ -35,7 +35,7 @@ This customer banking program fits right into the current financial landscape ge
 
 ### Importing Class & Creating Functions
 
-Account class from account.py file was separately imported into the savings and cd account functions, which allowed an instance of the account class to be created and the balance and interest parameters passed to the account class in each individual function. The interest earned was calculated (balance * interest_rate/100 * months/12) and assigned to a variable and the account balance was updated by adding the interest earned to the balance and then assigning it to a variable in eaach individual function. The updated balance was passed to the set balance using the instance of the account class and the update balance and interest earned were returned by the respective function.
+Account class from account.py file was separately imported into the savings and cd account functions, which allowed an instance of the account class to be created and the balance and interest parameters passed to the account class in each individual function. The interest earned was calculated (balance * interest_rate/100 * months/12) and assigned to a variable and the account balance was updated by adding the interest earned to the balance and then assigning it to a variable in eaach individual function. The updated balance was passed to the set balance using the instance of the account class and the update balance and interest earned were returned by the respective functions.
 
 ### Create Main Function
 
@@ -45,7 +45,7 @@ The savings and cd account functions were imported to into the main fuction. Use
 
 ### Savings Account APY & CD Term Period
 
-- For the purpose of making this application more plausible or realistic, it may be helpful to limit the user input in regards to APY for savings account so it resembles the national average. Similary, a more plausible application of the progam would be to have the APY vary based on the CD term period.
+- For the purpose of making this application more plausible or realistic, it may be helpful to limit the user input in regards to APY for savings account so it resembles the national average. Similary, a more plausible application of the program would be to have the APY vary based on the CD term period.
 
 
 [^1]: https://www.usnews.com/banking/articles/benefits-of-having-a-savings-account
